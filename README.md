@@ -1,16 +1,41 @@
-## Hi there 👋
+# Mohammad Umair
 
-<!--
-**umairrrrr1/umairrrrr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student · Developer · Builder
 
-Here are some ideas to get you started:
+> I learn by building — from IoT prototypes to web applications and
+> AI-powered ideas that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-umair-32214a388/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umairrrrr1)
+
+---
+
+## About Me
+
+I'm a **B.Tech Computer Science student at Invertis University**, interested in building practical technology and continuously improving my problem-solving skills.
+
+My interests currently revolve around:
+
+- Backend Development
+- Artificial Intelligence
+- Java & Data Structures
+- Web Development
+- IoT & Hardware
+- Hackathons and real-world problem solving
+
+I prefer learning by **building, experimenting and breaking things until I understand how they work.**
+
+---
+
+## Currently Building
+
+```text
+Java                 ███████████████░░░  Intermediate
+Python               ███████████████░░░  Intermediate
+SQL                  ███████████████░░░  Intermediate
+HTML                 ███████████████░░░  Intermediate
+CSS                  ███████████████░░░  Intermediate
+JavaScript           ████████░░░░░░░░░░  Beginner
+Git                  ███████████████░░░  Intermediate
+GitHub               ███████████████░░░  Intermediate
